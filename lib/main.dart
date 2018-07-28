@@ -15,7 +15,7 @@ class TextEditor extends StatelessWidget {
         appBar: AppBar(
           title: Text('Text Editor'),
         ),
-        body: TextManager(firstName: 'Muhammad', lastName: 'Ali', bDate: 'January 17, 1942', gender: 'Male', img: './assets/muhammad.jpg',),
+        body: TextManager(firstName: 'Mohammad', lastName: 'Ali', bDate: 'January 17, 1942', gender: 'Male', img: './assets/muhammad.jpg',),
       ),
     );
   }
